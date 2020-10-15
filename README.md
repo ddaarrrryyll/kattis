@@ -1,2 +1,2 @@
 # kattis
-meow
+spaghetti code for kattis :(
